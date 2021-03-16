@@ -1,1 +1,1 @@
-# digitalhumanities_class
+# dh_class_experiment
